@@ -47,26 +47,26 @@ GFDL は CC BY-SA と違い、**ライセンス英語原文の同梱を義務づ
 
 | 章 | 原題 | 訳題 | 状態 |
 |---|---|---|---|
-| — | Acknowledgements ほか前付け | 前付け | — |
-| 1 | Overview | 概観 | — |
-| 2 | Special Forms | 特殊形式 | — |
-| 3 | Equivalence Predicates | 同値述語 | — |
-| 4 | Numbers | 数 | — |
-| 5 | Characters | 文字 | — |
-| 6 | Strings | 文字列 | — |
-| 7 | Lists | リスト | — |
-| 8 | Vectors | ベクタ | — |
-| 9 | Bit Strings | ビット列 | — |
-| 10 | Miscellaneous Datatypes | その他のデータ型 | — |
-| 11 | Associations | 連想 | — |
-| 12 | Procedures | 手続き | — |
-| 13 | Environments | 環境 | — |
-| 14 | Input/Output | 入出力 | — |
-| 15 | Operating-System Interface | オペレーティングシステムインタフェース | — |
-| 16 | Error System | エラーシステム | — |
-| 17 | Graphics | グラフィックス | — |
-| 18 | Win32 Package Reference | Win32 パッケージリファレンス | — |
-| — | GNU Free Documentation License | （英語原文を [GFDL-1.1.txt](GFDL-1.1.txt) に同梱） | — |
+| — | Acknowledgements ほか前付け | 前付け | 完了 |
+| 1 | Overview | 概観 | 完了 |
+| 2 | Special Forms | 特殊形式 | 完了 |
+| 3 | Equivalence Predicates | 同値述語 | 完了 |
+| 4 | Numbers | 数 | 完了 |
+| 5 | Characters | 文字 | 完了 |
+| 6 | Strings | 文字列 | 完了 |
+| 7 | Lists | リスト | 完了 |
+| 8 | Vectors | ベクタ | 完了 |
+| 9 | Bit Strings | ビット列 | 完了 |
+| 10 | Miscellaneous Datatypes | その他のデータ型 | 完了 |
+| 11 | Associations | 連想 | 完了 |
+| 12 | Procedures | 手続き | 完了 |
+| 13 | Environments | 環境 | 完了 |
+| 14 | Input/Output | 入出力 | 完了 |
+| 15 | Operating-System Interface | オペレーティングシステムインタフェース | 完了 |
+| 16 | Error System | エラーシステム | 完了 |
+| 17 | Graphics | グラフィックス | 完了 |
+| 18 | Win32 Package Reference | Win32 パッケージリファレンス | 完了 |
+| — | GNU Free Documentation License | （英語原文を [GFDL-1.1.txt](GFDL-1.1.txt) に同梱） | 完了 |
 | — | Binding Index / Concept Index | 束縛索引／概念索引 | 訳出しない |
 
 ### 訳出しない部分
