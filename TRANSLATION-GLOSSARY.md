@@ -80,6 +80,10 @@ lambda 式は手続きに評価される。……
 | operation+ on output port | 〔出力ポートの操作＋〕 | 第14章のポート基本操作 |
 | condition type+ | 〔条件型＋〕 | MIT 拡張の条件型 |
 | subprocess option+ | 〔サブプロセスオプション＋〕 | 第15章のサブプロセス指定 |
+| operation+ on graphics-device | 〔グラフィックスデバイスの操作＋〕 | 第17章 |
+| operation+ on x-graphics-device | 〔X グラフィックスデバイスの操作＋〕 | 第17章 |
+| operation+ on win32-graphics-device | 〔Win32 グラフィックスデバイスの操作＋〕 | 第17章 |
+| operation+ on os2-graphics-device | 〔OS/2 グラフィックスデバイスの操作＋〕 | 第17章 |
 
 ## 確定した訳語
 
@@ -157,5 +161,5 @@ lambda 式は手続きに評価される。……
 | 14 | 入出力 | 完了 |
 | 15 | オペレーティングシステムインタフェース | 完了 |
 | 16 | エラーシステム | 完了 |
-| 17 | グラフィックス | — |
+| 17 | グラフィックス | 完了 |
 | 18 | Win32 パッケージリファレンス | — |
