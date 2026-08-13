@@ -73,6 +73,9 @@ lambda 式は手続きに評価される。……
 | special form+ | 〔特殊形式＋〕 | MIT Scheme が加えた特殊形式 |
 | variable | 〔変数〕 | R4RS の変数 |
 | variable+ | 〔変数＋〕 | MIT Scheme が加えた変数 |
+| slot option | 〔スロットオプション〕 | define-structure のスロット指定 |
+| structure option | 〔構造体オプション〕 | define-structure の構造体指定 |
+| condition type | 〔条件型〕 | エラーシステムの条件型 |
 
 ## 確定した訳語
 
@@ -135,7 +138,7 @@ lambda 式は手続きに評価される。……
 |---|---|---|
 | 前付け | 前付け（表題・謝辞・許諾表示） | 完了 |
 | 1 | 概観 | 完了 |
-| 2 | 特殊形式 | — |
+| 2 | 特殊形式 | 完了 |
 | 3 | 同値述語 | — |
 | 4 | 数 | — |
 | 5 | 文字 | — |
