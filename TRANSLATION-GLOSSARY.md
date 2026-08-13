@@ -84,6 +84,7 @@ lambda 式は手続きに評価される。……
 | operation+ on x-graphics-device | 〔X グラフィックスデバイスの操作＋〕 | 第17章 |
 | operation+ on win32-graphics-device | 〔Win32 グラフィックスデバイスの操作＋〕 | 第17章 |
 | operation+ on os2-graphics-device | 〔OS/2 グラフィックスデバイスの操作＋〕 | 第17章 |
+| windows type | 〔Windows 型〕 | 第18章の FFI の外部型 |
 
 ## 確定した訳語
 
@@ -162,4 +163,4 @@ lambda 式は手続きに評価される。……
 | 15 | オペレーティングシステムインタフェース | 完了 |
 | 16 | エラーシステム | 完了 |
 | 17 | グラフィックス | 完了 |
-| 18 | Win32 パッケージリファレンス | — |
+| 18 | Win32 パッケージリファレンス | 完了 |
