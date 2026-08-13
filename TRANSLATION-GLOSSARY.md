@@ -53,7 +53,7 @@ lambda formals expression expression . . .                          special form
 ```
 
 訳文では次の形にする。**シグネチャは見出しのコードスパンに入れて訳さず**、分類を
-全角丸括弧で添え、説明を続ける。
+〔〕で添え、説明を続ける。
 
 ```markdown
 #### `lambda formals expression expression …` 〔特殊形式〕
@@ -61,17 +61,18 @@ lambda formals expression expression . . .                          special form
 lambda 式は手続きに評価される。……
 ```
 
-分類語の訳は次で固定する。
+分類語は6種。末尾の `+` は **MIT Scheme の拡張**（R4RS にない）を表す、というのが
+原著 1.1.3 の規約である。`+` なしは R4RS で定義されている項目を指す。訳では `+` を
+`＋` として残し、その意味は第1章 1.1.3 で説明する。
 
-| 原文（右寄せの分類） | 訳 |
-|---|---|
-| standard procedure | 標準手続き |
-| procedure | 手続き |
-| special form | 特殊形式 |
-| standard special form | 標準特殊形式 |
-| variable | 変数 |
-| standard variable | 標準変数 |
-| condition type | 条件型 |
+| 原文（右寄せの分類） | 訳 | 意味 |
+|---|---|---|
+| procedure | 〔手続き〕 | R4RS の手続き |
+| procedure+ | 〔手続き＋〕 | MIT Scheme が加えた手続き |
+| special form | 〔特殊形式〕 | R4RS の特殊形式 |
+| special form+ | 〔特殊形式＋〕 | MIT Scheme が加えた特殊形式 |
+| variable | 〔変数〕 | R4RS の変数 |
+| variable+ | 〔変数＋〕 | MIT Scheme が加えた変数 |
 
 ## 確定した訳語
 
@@ -132,8 +133,8 @@ lambda 式は手続きに評価される。……
 
 | 章 | 訳題 | 状態 |
 |---|---|---|
-| 前付け | 前付け（表題・謝辞・許諾表示） | — |
-| 1 | 概観 | — |
+| 前付け | 前付け（表題・謝辞・許諾表示） | 完了 |
+| 1 | 概観 | 完了 |
 | 2 | 特殊形式 | — |
 | 3 | 同値述語 | — |
 | 4 | 数 | — |
